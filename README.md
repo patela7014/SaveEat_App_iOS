@@ -1,0 +1,1 @@
+Created an iOS app that allows the user to find the nearby restaurants based on the budget entered. It also allows getting the details of each restaurant such as ratings, location on map, and distance from the current location etc. List of restaurants are fetched from the XML file.
